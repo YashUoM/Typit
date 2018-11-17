@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "718687520445",
+    "firebase_url": "https://typit-87700.firebaseio.com",
+    "project_id": "typit-87700",
+    "storage_bucket": "typit-87700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718687520445:android:f5c2c5184553bf0c",
+        "android_client_info": {
+          "package_name": "com.example.yashoda.typit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718687520445-m2noeurruld5to0uesjerjj8mvml8or2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yashoda.typit",
+            "certificate_hash": "59aba0a4cccf913f0c71b1d1f77a66f4c0da5778"
+          }
+        },
+        {
+          "client_id": "718687520445-mneml81irtm4c7u77g8c7kbv8h3pe0lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9C3DLwz1tUBqxEX9NAF6bjO1cN0z-VVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718687520445-mneml81irtm4c7u77g8c7kbv8h3pe0lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
